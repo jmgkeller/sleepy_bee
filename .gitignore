@@ -1,4 +1,4 @@
 *.csv
 *.txt
-*.RDat
-*.sas7bdata
+*.RData
+*.sas7bdat
